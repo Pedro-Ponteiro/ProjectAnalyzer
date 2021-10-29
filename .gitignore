@@ -4,5 +4,5 @@ results.xlsx
 !*.py
 !requirements.txt
 !.gitignore
-
+!readme.md
 venv
