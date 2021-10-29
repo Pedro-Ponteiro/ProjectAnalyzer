@@ -1,0 +1,8 @@
+results.xlsx
+
+*.*
+!*.py
+!requirements.txt
+!.gitignore
+
+venv
